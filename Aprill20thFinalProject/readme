@@ -1,0 +1,22 @@
+Francis Hayward Walker and Joachim
+
+Maze game.
+
+first draft and impletmenting basic functions of each class.
+
+functionality:
+    Player moves with arrow keys and uses space to fire bullet.
+    One enemy in map.
+    When player hits enemy, they disappear and stop shooting.
+    When player is hit the game ends.
+
+ TODO
+    Random map generation.
+    Current working map is for testing furture ones will have start, finish.
+    Enemy movement will be dynamic
+    Differrernt enemny types.
+    Smother movement. (current all objects jump in 32 pixel tiles)
+    Will redo most of this using inheritence for the different objects moving on screen
+    Icons are very basic kim will design better icons soon
+    Will add graphic user interface
+
